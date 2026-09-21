@@ -56,7 +56,46 @@ The dashboard is designed to answer key business questions such as:
 | **GitHub** | Project documentation & portfolio |
 
 ---
+##  Data Preparation
 
+The raw sales dataset was prepared for analysis by:
+
+- Cleaning and standardizing date fields
+- Standardizing regions, payment methods and delivery statuses
+- Handling missing delivery dates
+- Identifying cancelled orders
+- Creating delivery performance indicators
+- Calculating cancellation rates
+- Calculating effective sales
+- Using XLOOKUP to retrieve related information
+
+  ##  Dashboard Features
+
+The interactive dashboard provides:
+
+### KPI Metrics
+- Total Orders
+- Effective Sales
+- Cancellation Rate
+- Fast Deliveries
+- Top-Selling Category
+- Top Regions
+
+### Sales Analysis
+- Sales by Category
+- Effective Sales by Region
+- Top-Performing Products
+
+### Delivery Analysis
+- Delivery Status Distribution
+- Fast vs. Slow Deliveries
+- Average Delivery Performance
+
+### Interactive Filters
+- Region
+- Payment Method
+- Delivery Status
+- Month
 ##  Project Workflow
 
 ```text
@@ -75,5 +114,28 @@ Business Metrics
 PivotCharts & Visualizations
      ↓
 Interactive Dashboard
+
+---
+
+# Author
+
+## Khyati Satwani
+
+**Aspiring Data Analyst | Data Science Student | Excel & Business Analytics**
+
+### Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Business Analysis
+- SQL
+- Excel
+- Power BI
+- Python
+
+---
+
+ **If you found this project useful, feel free to explore the dashboard, report, and analysis files in this repository.**
      ↓
 Business Insights & Recommendations
