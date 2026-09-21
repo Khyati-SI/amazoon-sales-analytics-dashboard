@@ -24,6 +24,40 @@ The dataset contains **100 sales transactions** covering multiple:
 - Sales amounts
 
 The objective was to clean and analyze the data, calculate relevant business metrics, identify sales and fulfillment patterns, and present the findings through an interactive Excel dashboard.
+---
+## 📋 Project Guidelines & Requirements
+
+This project was completed as part of the **Mini Project – Week 03: Workforce & Sales Intelligence Dashboard**.
+
+The project requirements included:
+
+- Cleaning and standardizing the Amazon sales dataset
+- Structuring date, region, category, payment, and delivery fields
+- Using **XLOOKUP** to retrieve and map customer/product/region information
+- Creating calculated fields using Excel formulas
+- Building **PivotTables** for sales, regions, categories, delivery status, and cancellations
+- Analyzing delivery performance, including orders delivered within 2 days
+- Calculating cancellation rate by region
+- Calculating effective sales based on delivered orders
+- Creating **PivotCharts and visualizations**
+- Adding interactive **filters/slicers** for Region, Payment Method, Delivery Status, and Month
+- Designing an interactive dashboard with KPI cards
+- Identifying business insights and providing actionable recommendations
+
+### Required Deliverables
+
+The project deliverables included:
+
+1. **Cleaned Excel dataset**
+2. **PivotTables and calculations**
+3. **XLOOKUP implementation**
+4. **Interactive Excel dashboard**
+5. **1–2 page business report containing:**
+   - Executive summary
+   - Key business insights
+   - Dashboard screenshots
+   - Business questions and answers
+   - Recommendations
 
 ---
 
