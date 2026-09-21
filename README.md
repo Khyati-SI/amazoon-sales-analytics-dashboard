@@ -96,6 +96,25 @@ The interactive dashboard provides:
 - Payment Method
 - Delivery Status
 - Month
+  ---
+
+# Author
+
+## Khyati Satwani
+
+**Aspiring Data Analyst | Data Science Student | Excel & Business Analytics**
+
+### Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Business Analysis
+- SQL
+- Excel
+- Power BI
+- Python
+
 ##  Project Workflow
 
 ```text
@@ -115,24 +134,6 @@ PivotCharts & Visualizations
      ↓
 Interactive Dashboard
 
----
-
-# Author
-
-## Khyati Satwani
-
-**Aspiring Data Analyst | Data Science Student | Excel & Business Analytics**
-
-### Areas of Interest
-
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- Business Analysis
-- SQL
-- Excel
-- Power BI
-- Python
 
 ---
 
